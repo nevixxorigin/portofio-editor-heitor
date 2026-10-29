@@ -68,7 +68,11 @@ export const I18N={
   "comu_d": "O espaço da arte brasileira: cursos, professores, desafios e uma galeria de artistas.",
   "comu_link": "Conhecer a Comunidade da Arte →",
   "comu_logo_alt": "Logo da Comunidade da Arte",
-  "hero_alt": "Foto de Heitor Neves"
+  "hero_alt": "Foto de Heitor Neves",
+  "w5t": "Motion graphics e efeitos visuais",
+  "w5d": "Motion graphics dinâmicos, efeitos visuais criativos e elementos animados que dão vida a conteúdos curtos.",
+  "w6t": "Tipografia cinética e storytelling",
+  "w6d": "Tipografia expressiva, animações de texto suaves e imagens com timing preciso que tornam a narrativa mais envolvente."
  },
  "en": {
   "meta_title": "Heitor Neves — Video Editor",
@@ -138,6 +142,10 @@ export const I18N={
   "comu_d": "A home for Brazilian art: courses, teachers, challenges and an artists’ gallery.",
   "comu_link": "Visit Comunidade da Arte →",
   "comu_logo_alt": "Comunidade da Arte logo",
-  "hero_alt": "Photo of Heitor Neves"
+  "hero_alt": "Photo of Heitor Neves",
+  "w5t": "Motion Graphics & Visual Effects",
+  "w5d": "Dynamic motion graphics, creative visual effects, and animated elements that bring short-form content to life.",
+  "w6t": "Kinetic Typography & Storytelling",
+  "w6d": "Expressive typography, smooth text animations, and carefully timed visuals that make storytelling more engaging."
  }
 };

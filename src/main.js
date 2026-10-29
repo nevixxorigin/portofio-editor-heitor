@@ -6,7 +6,9 @@ const PROJECTS = [              // id = código do YouTube Short; textos ficam e
   {id:"PIsGUFEudyY",k:"w1"},
   {id:"C-EqdDqquIs",k:"w2"},
   {id:"ZQDsfL-jm-Y",k:"w3"},
-  {id:"l8xv7g_a4gI",k:"w4"}
+  {id:"l8xv7g_a4gI",k:"w4"},
+  {id:"DXFtZqED4Ng",k:"w5"},
+  {id:"aEBhEOG-Zt4",k:"w6"}
 ];
 const CONTACTS = {whatsapp:"553399765446",linkedin:"",instagram:"https://www.instagram.com/hxneves/",email:""};
 /* ======================================== */
